@@ -19,5 +19,6 @@
   "scripts": {
     "start": "cds-serve",
     "start-noTest" : "cds-serve"
+    
   }
 }
